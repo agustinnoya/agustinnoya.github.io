@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(https://img.freepik.com/free-vector/abstract-wavy-background-light-brown_1108-592.jpg?w=2000s);
+    background-size: 140%;
+}
+
+pre {
+    font-family: arial, Helvetica, sans-serif;
+}
+
+#home {
+    margin: 100px 20px;
+}
+
+.Sobremi{
+    float:center
+
+}
+div.home {
+    margin: 100px 200px;
+}
+
+.sobremitexto{
+    width:100%;
+    max-width: 1000px;
+    margin:auto;
+}
+
+.imagencurriculum{
+ width: 500px;
+ float:left;
+ margin: 0px 0px 0px 445px;
+ margin-right: 18px;
+}
+
+.imagenizquierda {
+    margin: 0px 0px 0px 100px;
+
+}
+
+.imagencentro {
+    margin: 0px 0px 0px 100px;
+}
+
+.imagenderecha {
+    margin: 0px 0px 0px 100px ;
+}
+
+#experiencia,
+#portafolio {
+    margin: 0px 70px;
+    color: rgb(0, 0, 0)
+}
+
+
+div ul.menu {
+    border-radius: 60px 50px 20px 100px;
+    list-style: none;
+    padding: 0;
+    background: #2e2e2e;
+    width: 522px;
+    max-width: 1000px;
+    margin: 80px 1300px;
+    display: flex
+}
+
+.menu li a {
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+    margin: 1 3rem
+}
+
+.menu li {
+    display: inline-block
+}
+
+.menu li a:hover {
+    background: #ef8354;
+    border-radius: 60px 50px 20px 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+.contacto {
+    list-style: none;
+    padding: 0;
+    margin: 0% 0% 0% 46%;
+    color: rgb(0, 0, 0)
+}
